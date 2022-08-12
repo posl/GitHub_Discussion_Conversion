@@ -7,6 +7,8 @@ Popular and large contemporary open source projects now embrace a diverse set of
 
 * `Data Collector` - contains the py script to collect the GitHub discussions using GraphQL (Collector.py).
 
+* `github-retriever` - used to identify whether the exising issue is converted or not (https://github.com/sbaltes/github-retriever/).
+
 ## Authors
 - [Dong Wang](https://dong-w.github.io/) - Kyushu University
 - [Masanari Kondo](https://mkmknd.github.io/) - Kyushu University
