@@ -21,6 +21,10 @@ Here, the rest of the three representative examples (issues that are converted i
 
 * `(VI) Unrelated Repository.` This reason refers to the case where the comments indicate that the issue is not raised in the appropriate place. For instance, in the [Ex 7](https://github.com/facebook/create-react-app/discussions/11405), the author proposed an issue concerning task tracker app in the create-react-app repository. However, the collaborator considered that the issue was from CRA tool and furhter this issue was converted.
 
+<img width="488" alt="representtive_ex3" src="https://user-images.githubusercontent.com/28581719/184312378-49c4d9d0-2ba3-451a-b19e-2477afb0d1ba.png">
+
+* `(VII) Information Storage.` It means that the issue is converted since the comment indicates that the existing issue should be kept as a reference for the community. For example, in the [Ex 8](https://github.com/date-fns/date-fns/discussions/2841), the author raised a problem regarding react-native formatting and seeked for the solution. One collaborator provided a couple of solutions and later moved this issue into a discussion for other developers to find it easily.
+
 
 ## Authors
 - [Dong Wang](https://dong-w.github.io/) - Kyushu University
