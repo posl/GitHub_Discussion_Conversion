@@ -2,6 +2,11 @@
 ## Abstract
 Popular and large contemporary open source projects now embrace a diverse set of documentation for communication channels. Examples include contribution guidelines (i.e, commit message guidelines, coding rules, submission guidelines), code of conduct (i.e., rules and behavior expectations), governance policies, and Q&A forum. In 2020, GitHub released Discussions to distinguish between communication and collaboration. However, it remains unclear how developers maintain these channels, how trivial, and the effort required to decide on the conversion. We conducted an empirical study on 259 NPM repositories, devising two taxonomies of reasons for converting discussions into issues and vice-versa. The most frequent conversion from discussion to issue is when developers request a contributor to clarify their idea into an issue (Clarification Request --35.1%), while agreeing that having non actionable topic  (QA, ideas, feature requests --55.0%) is the most frequent reason of converting an issue into discussion. Furthermore, we show that not all reasons for conversion are trivial (e.g., not a bug), and conversions potentially cost time (i.e., a median of 15.2 hours taken from issues to discussions). Our work contributes to how developers effectively utilize these different communication channels to maintain their collaboration. 
 
+## Contents
+* `RawData` - contains the datasets that are used in each RQ, and the manual classification for RQ4 (inconsistency reasons) :floppy_disk:
+
+* `Script` - contains the script to reproduce the non-linear regression model (RQ1) :crystal_ball:
+
 ## Authors
 - [Dong Wang](https://dong-w.github.io/) - Kyushu University
 - [Masanari Kondo](https://mkmknd.github.io/) - Kyushu University
