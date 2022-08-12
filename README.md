@@ -17,6 +17,10 @@ Here, the rest of the three representative examples (issues that are converted i
 
 * `(V) Already Fixed.` This category denotes the reason where the comment indicates that the issue has already been raised in either the issue lists or the discussion thread. As shown in the [Ex 6](https://github.com/gatsbyjs/gatsby/discussions/31283), the maintainer suggested that the pitfalls related to build has been addressed by adding a doc page and then converted the exising issue into a discussion thread.
 
+<img width="487" alt="representtive_ex2" src="https://user-images.githubusercontent.com/28581719/184311254-289a11ee-02c0-4a88-b26f-2bcf7e709ff1.png">
+
+* `(VI) Unrelated Repository.` This reason refers to the case where the comments indicate that the issue is not raised in the appropriate place. For instance, in the [Ex 7](https://github.com/facebook/create-react-app/discussions/11405), the author proposed an issue concerning task tracker app in the create-react-app repository. However, the collaborator considered that the issue was from CRA tool and furhter this issue was converted.
+
 
 ## Authors
 - [Dong Wang](https://dong-w.github.io/) - Kyushu University
