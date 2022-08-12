@@ -11,6 +11,9 @@ Popular and large contemporary open source projects now embrace a diverse set of
 
 * `github-retriever` - used to identify whether the exising issue is converted or not (https://github.com/sbaltes/github-retriever/).
 
+## Appendix
+Here, the rest of the three representative examples (issues that are converted into disucssions) would be shown below:
+
 ## Authors
 - [Dong Wang](https://dong-w.github.io/) - Kyushu University
 - [Masanari Kondo](https://mkmknd.github.io/) - Kyushu University
