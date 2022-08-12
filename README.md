@@ -5,7 +5,9 @@ Popular and large contemporary open source projects now embrace a diverse set of
 ## Contents
 * `RawData` - contains a list of NPM packages from the NPM registry (NPM.csv.zip) and all the discussion metadata from 259 repositories (All_discussion_data.zip).
 
-* `Script` - contains the script to collect the GitHub discussion using GraphQL
+* `Data Collector` - contains the py script to collect the GitHub discussions using GraphQL (Collector.py).
+
+* `github-retriever` - used to identify whether the exising issue is converted or not (https://github.com/sbaltes/github-retriever/).
 
 ## Authors
 - [Dong Wang](https://dong-w.github.io/) - Kyushu University
