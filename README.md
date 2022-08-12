@@ -13,6 +13,7 @@ Popular and large contemporary open source projects now embrace a diverse set of
 
 ## Appendix
 Here, the rest of the three representative examples (issues that are converted into disucssions) would be shown:
+
 <img width="487" alt="representtive_ex1" src="https://user-images.githubusercontent.com/28581719/184307135-226b6274-c355-4e53-9657-13ac8215a210.png">
 
 * `(V) Already Fixed.` This category denotes the reason where the comment indicates that the issue has already been raised in either the issue lists or the discussion thread. As shown in the [Ex 6](https://github.com/gatsbyjs/gatsby/discussions/31283), the maintainer suggested that the pitfalls related to build has been addressed by adding a doc page and then converted the exising issue into a discussion thread.
