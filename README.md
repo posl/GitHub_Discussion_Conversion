@@ -12,8 +12,9 @@ Popular and large contemporary open source projects now embrace a diverse set of
 * `github-retriever` - used to identify whether the exising issue is converted or not (https://github.com/sbaltes/github-retriever/).
 
 ## Appendix
-Here, the rest of the three representative examples (issues that are converted into disucssions) would be shown below:
+Here, the rest of the three representative examples (issues that are converted into disucssions) would be shown:
 <img width="487" alt="representtive_ex1" src="https://user-images.githubusercontent.com/28581719/184307135-226b6274-c355-4e53-9657-13ac8215a210.png">
+<u>(V) Already Fixed</u>
 
 
 ## Authors
