@@ -7,6 +7,8 @@ Popular and large contemporary open source projects now embrace a diverse set of
 
 * `Data Collector` - contains the py script to collect the GitHub discussions using GraphQL (Collector.py).
 
+* `Label Data` - contains the manual label for those discussions that are suggested to be converted into issues (Discussion_to_Issue.csv) and those discussions that are converted from the existing issues (Issue_to_Discussion.csv).
+
 * `github-retriever` - used to identify whether the exising issue is converted or not (https://github.com/sbaltes/github-retriever/).
 
 ## Authors
