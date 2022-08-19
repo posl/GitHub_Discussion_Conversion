@@ -7,7 +7,7 @@ Popular and large contemporary open source projects now embrace a diverse set of
 
 * `Data Collector` - contains the py script to collect the GitHub discussions using GraphQL (Collector.py).
 
-* `Label Data` - contains the manual label for those discussions that are suggested to be converted into issues (Discussion_to_Issue.csv) and those discussions that are converted from the existing issues (Issue_to_Discussion.csv). In addition, their related metadata are provided, including discussion comment, created time, comment time and so on.
+* `Label Data` - contains the manual label for those discussions that are suggested to be converted into issues (Discussion_to_Issue.csv) and those discussions that are converted from the existing issues (Issue_to_Discussion.csv). In addition, their related metadata are provided, including discussion comment, created time, comment time and so on. Note that `check_point' column refers to the manual mark whether this comment firstly raises the conversion intent or not.
 
 * `github-retriever` - used to identify whether the exising issue is converted or not (https://github.com/sbaltes/github-retriever/).
 
